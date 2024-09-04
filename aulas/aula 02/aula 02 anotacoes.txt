@@ -1,0 +1,7 @@
+AULA 02:
+
+Class:
+PascalCase
+camelCase
+_snake_case - variaveis privadas
+

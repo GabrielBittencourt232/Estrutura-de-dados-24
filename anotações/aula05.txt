@@ -1,0 +1,18 @@
+A principal diferença entre o ArrayList e o List é que o primeiro NÃO É FORTEMENTE TIPADO.
+=========================================================//==========================================
+
+Por Valor:
+
+int a = 10;
+int teste(int x)
+{
+   x = 5;
+   WriteLine(x);
+}
+teste(a);
+
+==================================================//=======================================
+
+ATIVIDADE:
+Crie um novo projeto para um programa que armazene em uma Lista informações sobre livros, como Nome, Editora, Autor e Número de Páginas.
+Preencha esta lista com no mínimo 5 livros e ao final percora esta lista e imprima as informações do livro com o maior número de 

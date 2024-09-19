@@ -1,5 +1,5 @@
-Fila = FiFo
-Pilha = LiFo
+Fila = FIFO
+Pilha = LIFO
 ================//=================
 Pilha
 POP = Retorna o que tem no topo e desempilha

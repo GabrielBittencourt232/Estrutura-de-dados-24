@@ -1,0 +1,9 @@
+Fila = FiFo
+Pilha = LiFo
+================//=================
+Pilha
+POP = Retorna o que tem no topo e desempilha
+PUSH = Serve para colocar
+PEEK = Retorna o valor e continua
+======================//==============
+Snippet

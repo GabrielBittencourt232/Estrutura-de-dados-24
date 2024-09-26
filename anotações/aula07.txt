@@ -1,0 +1,13 @@
+Hash Table
+- Hash Map -
+
+Funciona baseada em uma KEY (chave de acesso)
+a partir da chave de acesso ela assume uma função hash (hash function)
+dessa função, ele vai partir para um BUCKET (repositório)
+esse repositório é onde vai ser feito o mapeamento de um suposto ARRAY
+
+==================================//============================
+
+Atividade: 
+
+Escreva um programa para auxiliar empregadores de uma loja a encontrar a localização em que um produto deveria se encontrar. Imagine que cada empregador tem um telefone com a sua aplicação, que deve ser usada para escanear o código do produto e lhes dizer em que prateleira ele deve estar nomeadas de A1 a C9. Para resolver este problema devemos armazenar os dados em uma TabelaHash (HashTable) utilizando a classe do tipo Dicionário (Dictionary), a chave deve ser uma string para o código de barras e o valor a localização da prateleira. Faça a carga de no mínimo 20 produtos contendo 5 em cada prateleira diferente, o seu programa deve perguntar ao usuário o código do produto e responder a localização da prateleira. Não se esqueça de tratar os erros e evitar mensagens obscuras para os empregadores.

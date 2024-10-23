@@ -1,0 +1,5 @@
+nós - galhos/ramos
+
+2º nível - nós filhos do anterior. raiz - filho - neto e bisneto. nós folhas (se encerram)
+
+Ler sobre "nullable operators"

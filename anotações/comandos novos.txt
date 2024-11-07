@@ -1,1 +1,6 @@
 git remote -v (mostrar repositórios remotos)
+
+git checkout -b (trocar de branch)
+
+
+fazer leitura essa semana sobre Herança do Paradigma Oriental do Objeto

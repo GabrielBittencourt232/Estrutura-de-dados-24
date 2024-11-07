@@ -3,4 +3,13 @@ git remote -v (mostrar repositórios remotos)
 git checkout -b (trocar de branch)
 
 
+git status
+git add . --> Para adicionar arquivos ao rastreio
+git commit -m "Mensagem do Commit"
+git checkout -b "NomeNovaBranch"
+git checkout NomeBranch --> Trocar para branch existente
+git pull origin nomebranch 
+git push origin nomebranch
+
+
 fazer leitura essa semana sobre Herança do Paradigma Oriental do Objeto

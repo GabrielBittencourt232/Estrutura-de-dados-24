@@ -7,6 +7,8 @@ namespace ArvoreBinaria
 {
     public class BinaryTreeNode<T> : TreeNode<T>
     {
+      
+        
         public BinaryTreeNode()
         {
             base.Children = new List<TreeNode<T>>();
@@ -21,7 +23,8 @@ namespace ArvoreBinaria
         public BinaryTreeNode<T> Right
         {
             get { return (BinaryTreeNode<T>)Children[0]; }
-            set { Children[0] = value; }
+            set { Children[1] = value; }
         }
+
     }
 }
